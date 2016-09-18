@@ -1,0 +1,1 @@
+# maglo.github.io-generator
